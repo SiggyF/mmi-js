@@ -1,2 +1,3 @@
-# mmi-js
-Model Message Interface javascript implementation
+# Model Message Interface
+
+Javascript implementation of the Model Message Interface (mmi).
